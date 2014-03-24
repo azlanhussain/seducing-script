@@ -1,0 +1,483 @@
+
+#mainpage {
+        width:100%;
+        margin:5px;
+        text-align:center;
+}
+#mainpage a {
+	cursor:pointer;
+}
+#colcenter {
+        width:810px;
+        margin:5px;
+        text-align:center;
+}
+#colleft{
+        margin-top:90px;
+        width:400px;
+	float:left;
+        text-align:center;
+}
+#colright{
+        margin-top:90px;
+        width:400px;
+	float:left;
+        text-align:center;
+}
+#aboutus{
+	background-color: #141A21;
+        color:#cccccc;
+        margin-bottom:20px;
+        /*margin-left:43px;*/
+        width:280px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+        text-align:left;
+	letter-spacing: 0.8pt;
+	line-height: 1.4;
+
+        padding:10px 20px 30px 20px;
+        -moz-border-radius: 20px;
+        -webkit-border-radius:20px;
+        -khtml-border-radius:20px;
+        border-radius:20px;
+}
+#aboutus b {
+        color:#ffffff;
+}
+.loginfield {
+        padding:10px 20px 10px 15px;
+        font-family: Arial;
+        font-size: 12px;
+        color: #999999;
+        text-decoration: none;
+        font-weight: bold;
+        -moz-border-radius: 20px;
+        -webkit-border-radius:20px;
+        -khtml-border-radius:20px;
+        border-radius:20px;
+        background:#EFEBEA;
+        width:295px;
+}
+.field3 {
+        padding-top:5px;
+        font-family: Arial;
+        font-size: 16px;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: bold;
+        width:40px;
+}
+.field4 {
+        padding-top:3px;
+        float:right;
+        text-align:right;
+	width:230px;
+}
+
+
+.field1 {
+	padding:10px 20px 10px 20px;
+        font-family: Arial;
+        font-size: 12px;
+        color: #999999;
+        text-decoration: none;
+        font-weight: bold;
+	-moz-border-radius: 20px;
+	-webkit-border-radius:20px;
+	-khtml-border-radius:20px;
+	border-radius:20px;
+	background:#EFEBEA;
+	width:270px;
+}
+.field2 {
+        padding-top:15px;
+	float:right;
+	text-align:right;
+}
+
+
+.txt1 {
+	font-family: Arial;
+	font-size: 12px;
+	color: #999999;
+	text-decoration: none;
+	font-weight: bold;
+}
+.txt1 a{
+	text-decoration: underline;
+        color: #1E65CD;
+        background:none;
+}
+.txt1 a:hover{
+        text-decoration: none;
+        background:none;
+}
+.testonsite {
+        background-color: #EFEBEA;
+        width: 250px;
+        height: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #878787;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+}
+.txtbox {
+	background-color: #EFEBEA;
+	width: 160px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #878787;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.logintxtbox {
+	background-color: #EFEBEA;
+	width: 190px;
+	height: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #878787;
+	text-decoration: none;
+	font-size: 15px;
+	font-weight: bold;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+body {
+	font-family: Arial;
+	background-color: #000000;
+	margin: 0px;
+	/*background-image: url(/images/seductivexlogo.png);
+	background-repeat: no-repeat;*/
+        color:#ffffff;
+}
+.topbarbg {
+	background-image: url(http://img.seductivex.com/test_07.png);
+	background-repeat: repeat-x;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.loginbtn {
+	background-image: url(http://img.seductivex.com/Seductive-1_10.jpg);
+	background-repeat: no-repeat;
+	height: 35px;
+	width: 71px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.textarea {
+	background-image: url(http://img.seductivex.com/test_41.jpg);
+	background-repeat: repeat-x;
+	height: 99px;
+}
+.smalltxtbox {
+	background-color: #EFEBEA;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	width: 130px;
+	height: 20px;
+	font-family: Arial;
+	color: #878787;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+.ctrtxtbox {
+	background-color: #EFEBEA;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	width: 40px;
+	height: 20px;
+	font-family: Arial;
+	color: #878787;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	text-align:center;
+}
+.credittxtbox {
+	background-color: #EFEBEA;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	width: 70px;
+	height: 20px;
+	font-family: Arial;
+	color: #333333;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+.selectboxtime {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        width: 110px;
+        height: 20px;
+        font-family: Arial;
+        color: #333333;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+.selectbox {
+	background-color: #EFEBEA;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	width: 160px;
+	height: 20px;
+	font-family: Arial;
+	color: #333333;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+.selectboxtechnique {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        width: 120px;
+        height: 20px;
+        font-family: Arial;
+        color: #333333;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+
+.selectboxtutorial {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        width: 280px;
+        height: 20px;
+        font-family: Arial;
+        color: #333333;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+
+a {
+	font-family:Arial, Helvetica, sans-serif;
+	color: #CCCCCC;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.generate{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#CCCCCC;
+	font-size:13px;
+	background:none;
+
+}
+.generate a, .generate a:link, .generate a:visited, .generate a:active{
+	font-family: Arial, Helvetica, sans-serif;
+	color:#CCCCCC;
+	font-size:13px;
+	text-decoration: underline;
+	background:none;
+}
+.generate a:hover{
+text-decoration: none;
+color: #666666;
+text-decoration:none;
+}
+.txtarea {
+	background-color: #EFEBEA;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 90px;
+	font-family: Arial;
+	color: #878787;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+}
+.txtarea2 {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+	width: 170px;
+        height: 90px;
+        font-family: Arial;
+        color: #878787;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+.txtarea3 {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+	width: 220px;
+        height: 90px;
+        font-family: Arial;
+        color: #878787;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+
+
+ul#sebaris{
+	margin: 0;
+	padding: 0;
+	width: 340px;
+	padding-bottom: 10px;
+}
+
+ul#sebaris li {
+	display: inline-block;
+	vertical-align: top;
+	/* For IE 7 */
+	zoom: 1;
+	*display: inline;
+}
+
+.countrytxtarea {
+        background-color: #EFEBEA;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        height: 65px;
+        font-family: Arial;
+        color: #878787;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: bold;
+}
+.footer {
+	background-image: url(http://img.seductivex.com/test_45.png);
+	background-repeat: no-repeat;
+	height: 17px;
+	width: 369px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #EFEBEA;
+	text-decoration: none;
+        line-height:140%;
+}
+.footer a {
+        color: #FF0000;
+}
+.footer a:hover {
+text-decoration: none;
+color: #EFEBEA;
+background:none;
+}
+
+.sectitle{
+    font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        color: #4D5055;
+	letter-spacing:2px;
+}
+.statuson, .statusoff {
+    	font-family: Arial, Helvetica, sans-serif;
+	margin-left:10px;
+	letter-spacing: 1pt;
+	font-size: 14px;
+	color:#5C7178;
+}
+.statusoff a, .statuson a:hover { color:#F80C0C;font-weight: bold;}
+.statuson a, .statusoff a:hover { color:#00D5FF;font-weight: bold;}
+
+a:hover {
+	text-decoration:none;
+	/*background-color: #CCCCCC;*/
+} /*BG color is a must for IE6*/
+a.tooltip span {
+	display:none;
+	margin-left:8px;
+	width:200px;
+	padding-top: 5px;
+	padding-right: 3px;
+	padding-left: 5px;
+	padding-bottom: 2px;
+	z-index:999;
+
+}
+a.tooltip:hover span{
+	display:inline;
+	position:absolute;
+	color:#000000;
+	background-color: #ffffff;
+	border: thin #000000;	/*background-image: url(/images/tooltip.png);*/
+	filter: alpha (opacity=90);
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+        text-align: left;
+        padding:10px;
+}
+
+a.tooltip img {
+border:none;
+}
+
+a.link-link2
+	{
+	color: #AEE6A7;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	font-variant: normal;
+	}
+a.link-link2:hover 
+	{
+	color: #303030;
+	font-size: 11px;
+	font-family: Arial;
+	text-decoration: none;
+	}
+
+
