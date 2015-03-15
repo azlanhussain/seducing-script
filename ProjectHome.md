@@ -1,0 +1,1 @@
+Seduce web visitors to increase their click through rate
