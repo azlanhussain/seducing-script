@@ -12,13 +12,11 @@
         text-align:center;
 }
 #colleft{
-        margin-top:90px;
         width:400px;
 	float:left;
         text-align:center;
 }
 #colright{
-        margin-top:90px;
         width:400px;
 	float:left;
         text-align:center;
@@ -372,7 +370,6 @@ ul#sebaris{
 
 ul#sebaris li {
 	display: inline-block;
-	vertical-align: top;
 	/* For IE 7 */
 	zoom: 1;
 	*display: inline;
@@ -478,5 +475,4 @@ a.link-link2:hover
 	font-family: Arial;
 	text-decoration: none;
 	}
-
 
