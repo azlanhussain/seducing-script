@@ -138,6 +138,9 @@ function checkForm3technique(){
   if(frm.purpose.options[frm.purpose.selectedIndex].value == 'audio'){
     frm.technique.value = frm.selectaudio.options[frm.selectaudio.selectedIndex].value;
   }
+  if(frm.purpose.options[frm.purpose.selectedIndex].value == 'fbf'){
+    frm.technique.value = frm.selectfbf.options[frm.selectfbf.selectedIndex].value;
+  }
     return true;
 }
 function checkForm1Password(){
