@@ -141,6 +141,9 @@ function checkForm3technique(){
   if(frm.purpose.options[frm.purpose.selectedIndex].value == 'fbf'){
     frm.technique.value = frm.selectfbf.options[frm.selectfbf.selectedIndex].value;
   }
+  if(frm.purpose.options[frm.purpose.selectedIndex].value == 'fbs'){
+    frm.technique.value = frm.selectfbs.options[frm.selectfbs.selectedIndex].value;
+  }
     return true;
 }
 function checkForm1Password(){
